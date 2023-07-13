@@ -50,6 +50,8 @@ VStack(spacing: 0) {
 ##### Widgets.
 The Xcode project includes widget extension targets to allow users to see part of the app's content as a widget on their iOS Home screen or in the macOS Notification Centre. Both make use of code that is common by all targets.
 
+
+
 ###### Note: 
 The Fruta app was a sample project associated with WWDC21 sessions [10107: Platforms State of the Union](https://developer.apple.com/wwdc21/10107/), [10012: What's New in App Clips](https://developer.apple.com/wwdc21/10012/), [10013: Build Light and Fast App Clips](https://developer.apple.com/wwdc21/10013/), [10220: Localize your SwiftUI App](https://developer.apple.com/wwdc21/10220/). 
 It's also associated with WWDC20 sessions [10637: Platforms State of the Union](https://developer.apple.com/wwdc20/10637/), [10146: Configure and Link Your App Clips](https://developer.apple.com/wwdc20/10146/), [10120: Streamline Your App Clip](https://developer.apple.com/wwdc20/10120/), [10118: Create App Clips for Other Businesses](https://developer.apple.com/wwdc20/10118/), [10096: Explore Packages and Projects with Xcode Playgrounds](https://developer.apple.com/wwdc20/10096/), and [10028: Meet WidgetKit](https://developer.apple.com/wwdc20/10028/).
