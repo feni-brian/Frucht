@@ -1,0 +1,34 @@
+/* 
+  Ingredients.strings
+  Frucht
+
+  Created by Feni Brian on 18/07/2022.
+  
+*/
+
+// Ingredient name
+"Almond Milk" = "Миндальное молоко";
+"Avocado" = "Авокадо";
+"Banana" = "Банан";
+"Blueberry" = "Голубика";
+"Carrot" = "Морковь";
+"Chocolate" = "Шоколад";
+"Coconut" = "Кокос";
+"Kiwi" = "Киви";
+"Lemon" = "Лимон";
+"Mango" = "Манго";
+"Orange" = "Апельсин";
+"Papaya" = "Папайя";
+"Peanut Butter" = "Арахисовая паста";
+"Pineapple" = "Ананас";
+"Raspberry" = "Малина";
+"Spinach" = "Шпинат";
+"Strawberry" = "Клубника";
+"Water" = "Вода";
+"Watermelon" = "Арбуз";
+
+// Ingredients of a smoothie. For languages that have different words for "Ingredient" based on semantic context
+"Ingredients.menu" = "Состав";
+// Ingredients in a recipe. For languages that have different words for "Ingredient" based on semantic context
+"Ingredients.recipe" = "Ингредиенты";
+

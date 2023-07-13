@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Frucht
+
+  Created by Feni Brian on 18/07/2022.
+  
+*/
+
+// Bundle name
+"CFBundleDisplayName" = "Фрута";
+
+// Bundle display name
+"CFBundleName" = "Фрута";
+
+
